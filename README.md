@@ -2,7 +2,7 @@
 ESRI Map
 
  <script src="https://js.arcgis.com/3.17/"></script>
-    <script>
+
       var map;
       require([
         "dojo/parser", 
@@ -148,4 +148,3 @@ ESRI Map
           };
         });
       });
-    </script>
